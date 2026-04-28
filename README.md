@@ -4,7 +4,10 @@
 
 This project demonstrates detection of encoded PowerShell attacks using endpoint telemetry collected with Sysmon and analyzed within Microsoft Sentinel. The lab simulates real-world attacker behavior and builds detection logic to identify obfuscated command execution.
 
----
+## 📄 Full Project Report
+For a detailed breakdown of this lab, including full analysis and screenshots:
+
+👉 [Download Full Report](Sentinel Endpoint Detection LAB.doc)
 
 ## 🎯 Objective
 

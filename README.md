@@ -10,8 +10,6 @@ For a detailed breakdown of this lab, including full analysis and screenshots:
 👉 ## 📄 Full Project Report
 For a detailed breakdown of this lab, including full analysis and screenshots:
 
-👉 [Download Full Report](Endpoint-Detection-Lab.pdf)
-
 ## 🎯 Objective
 
 * Detect obfuscated PowerShell execution using Base64 encoding

@@ -7,7 +7,7 @@ This project demonstrates detection of encoded PowerShell attacks using endpoint
 ## 📄 Full Project Report
 For a detailed breakdown of this lab, including full analysis and screenshots:
 
-👉 [Download Full Report](FULLPROJECT1.pdf)
+👉 [View Full Report](FULLPROJECT1.pdf)
 
 ## 🎯 Objective
 
